@@ -1,0 +1,43 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+}
+
+/* header */
+
+.header {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #222;
+    text-decoration: none;
+}
+
+.header-logo {
+    width: 56px;
+    height: 56px;
+}
+
+.header-search {
+    width: 24px;
+    height: 24px;
+}
+
+.header-cart {
+    width: 24px;
+    height: 24px;
+}
+
+.header-button {
+    font-family: 'DM Sans', sans-serif;
+    width: 160px;
+    height: 40px;
+    border-radius: 8px;
+    background: #09A66D;
+    color: #fff;
+    font-size: 18px;
+}
